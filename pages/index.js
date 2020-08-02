@@ -20,7 +20,7 @@ const Home = ({ allPostsData }) => {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello ✌🏼! I am Fahad Siddiqi, and am always eager to learn new things{' '}
+          Hello ✌🏼! I am Fahad Siddiqi, and I'm always eager to learn new things{' '}
           to improve my skills in software development.
         </p>
         <p>
